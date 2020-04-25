@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="current_location">Use current location</string>
+    <string name="empty">Empty Data Set</string>
+    <string name="reload">Reload</string>
+    <string name="city_text">%1$s, %2$s</string>
+    <string name="today">Today</string>
+</resources>
